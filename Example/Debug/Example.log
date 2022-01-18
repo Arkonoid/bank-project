@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\tyler\source\repos\Example\Example\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tyler\source\repos\Example\Example\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tyler\source\repos\Example\Example\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tyler\source\repos\Example\Example\Source.cpp(35,11): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\tyler\source\repos\Example\Example\Source.cpp(31,10): warning C4101: 'deposit': unreferenced local variable
+C:\Users\tyler\source\repos\Example\Example\Source.cpp(32,10): warning C4101: 'withdrawl': unreferenced local variable
+  Example.vcxproj -> C:\Users\tyler\source\repos\Example\Debug\Example.exe
